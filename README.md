@@ -1,0 +1,2 @@
+# ursa-theme
+Dark theme
