@@ -1,2 +1,2 @@
 # ursa-theme
-Dark theme
+A dark theme based on Monokai
